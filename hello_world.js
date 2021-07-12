@@ -1,0 +1,1 @@
+console.log("touch makes files, mkdir makes folders");
